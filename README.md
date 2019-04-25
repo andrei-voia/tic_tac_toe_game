@@ -1,4 +1,4 @@
-# tic_tac_toe_game
+# Tic-tac-toe Game
 
 A simple game of tic-tac-toe with a friendly interface.
 
