@@ -1,0 +1,19 @@
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\bin\Debug\x si 0.exe.config
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\bin\Debug\x si 0.exe
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\bin\Debug\x si 0.pdb
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\obj\Debug\x si 0.csprojResolveAssemblyReference.cache
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\obj\Debug\x_si_0.Form1.resources
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\obj\Debug\x_si_0.Properties.Resources.resources
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\obj\Debug\x si 0.csproj.GenerateResource.Cache
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\obj\Debug\x si 0.exe
+D:\ANDREI\programe\Visual Studio save\x si 0\x si 0\obj\Debug\x si 0.pdb
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\bin\Debug\x si 0.exe.config
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\bin\Debug\x si 0.exe
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\bin\Debug\x si 0.pdb
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\obj\Debug\x si 0.csprojResolveAssemblyReference.cache
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\obj\Debug\x_si_0.Form1.resources
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\obj\Debug\x_si_0.Properties.Resources.resources
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\obj\Debug\x si 0.csproj.GenerateResource.Cache
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\obj\Debug\x si 0.csproj.CoreCompileInputs.cache
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\obj\Debug\x si 0.exe
+D:\programs\programe saves\save Visual Studio\x si 0\x si 0\obj\Debug\x si 0.pdb
