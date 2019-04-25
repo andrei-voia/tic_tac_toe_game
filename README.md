@@ -1,6 +1,6 @@
 # tic_tac_toe_game
 
-A simple game of tic-tac-toe with a friendly interface
+A simple game of tic-tac-toe with a friendly interface.
 
 ## How it works
 
